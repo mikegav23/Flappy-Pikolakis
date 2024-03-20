@@ -1,1 +1,2 @@
-# Flappy-Pikolakis
+# JS-FlappyDiggs
+A Flappy Bird clone starring steffon diggs
